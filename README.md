@@ -4,7 +4,7 @@ Date: July 27, 2022
 
 # TwentyFourth challange of [JavaScript30](https://javascript30.com/)
 
-. To experience on your own visit [here](https://rohit-saini7.github.io/24-Sticky-Nav/).
+Just a sticky navbar. To experience on your own visit [here](https://rohit-saini7.github.io/24-Sticky-Nav/).
 
 ## What is JavaScript 30
 
@@ -14,4 +14,6 @@ Learn more about the course in [here](https://javascript30.com/).
 
 ## Screenshot
 
-![Screendhot](./assets/screenshot.png)
+![Screendhot-1](./assets/screenshot.png)
+
+![Screendhot-2](./assets/screenshot-2.png)
